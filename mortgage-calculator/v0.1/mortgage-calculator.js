@@ -127,4 +127,3 @@ function updateTextAndCalc() {
     calcMonthlyPayment();
 }
 
-/* Need to publish */

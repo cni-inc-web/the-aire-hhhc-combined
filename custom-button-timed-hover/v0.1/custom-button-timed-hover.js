@@ -15,4 +15,3 @@ setInterval(() => {
   });
 }, 10000);
 
-/* Need to publish */

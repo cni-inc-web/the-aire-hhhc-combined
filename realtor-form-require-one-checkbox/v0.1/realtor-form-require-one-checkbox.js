@@ -47,5 +47,3 @@ document.addEventListener("DOMContentLoaded", function () {
     if (e.key === "Enter" && !anyChecked()) return blockSubmit(e);
   }, true);
 });
-
-/* Need to publish */
