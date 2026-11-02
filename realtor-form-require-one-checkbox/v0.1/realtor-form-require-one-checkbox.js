@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const form = document.querySelector("#realtor-form");
+  const form = document.querySelector("#aire-realtor-form");
   if (!form) return;
 
   const ids = [
